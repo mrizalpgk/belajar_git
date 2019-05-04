@@ -4,3 +4,4 @@ Rencana konten akun pribadi
 - Cari source konten pendukung
   * cari sosmed rolemodel
 - buat konsep {warna-font-kesan desain}
+- cari alasan untuk komitmen
