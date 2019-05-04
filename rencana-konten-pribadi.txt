@@ -3,5 +3,6 @@ Rencana konten akun pribadi
  * tonjolkan yang dominan
 - Cari source konten pendukung
   * cari sosmed rolemodel
+  - youtube, instagram, blog, jurnal, paper
 - buat konsep {warna-font-kesan desain}
 - cari alasan untuk komitmen
